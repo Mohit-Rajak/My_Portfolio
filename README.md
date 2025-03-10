@@ -41,9 +41,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 If you have any questions or want to collaborate, feel free to reach out:
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/mohit-rajak)
-- GitHub: [Your GitHub](https://github.com/Mohit-Rajak)
+- Email: mohitrajak022004@gmail.com
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mohit-rajak)
+- GitHub: [GitHub](https://github.com/Mohit-Rajak)
 
 ---
 ⭐ Don't forget to star the repo if you like it! ⭐
